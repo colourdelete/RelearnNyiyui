@@ -1,17 +1,15 @@
-name = "Relearn"
+name = "RelearnNyiyui"
 license = "MIT"
-licenselink = "https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE"
+licenselink = "https://github.com/colourdelete/RelearnNyiyui/blob/main/LICENSE"
 description = "A theme for Hugo designed for documentation"
-homepage = "https://github.com/McShelby/hugo-theme-relearn"
-demosite = "https://mcshelby.github.io/hugo-theme-relearn"
+homepage = "https://github.com/colourdelete/RelearnNyiyui"
 tags = ["docs", "documentation", "grav", "learn", "multilingual", "relearn", "search"]
 features = ["documentation", "expand", "include", "menu", "mermaid", "multilingual", "nested sections", "notice", "search", "tabs", "themeable"]
 
 [author]
-  name = "Sören Weber"
-  homepage = "https://github.com/McShelby"
+  name = "Ken Shibata"
+  homepage = "https://github.com/colourdelete"
 
 [original]
-    author = "Mathieu Cornic"
-    homepage = "https://learn.netlify.app"
-    repo = "https://github.com/matcornic/hugo-theme-learn"
+  author = "Sören Weber"
+  homepage = "https://github.com/McShelby"
